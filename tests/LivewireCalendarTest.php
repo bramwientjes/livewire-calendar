@@ -1,8 +1,8 @@
 <?php
 
-namespace Asantibanez\LivewireCalendar\Tests;
+namespace Puikepixels\LivewireCalendar\Tests;
 
-use Asantibanez\LivewireCalendar\LivewireCalendar;
+use Puikepixels\LivewireCalendar\LivewireCalendar;
 use Livewire\LivewireManager;
 use Livewire\Testing\TestableLivewire;
 

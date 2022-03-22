@@ -1,8 +1,8 @@
 <?php
 
-namespace Asantibanez\LivewireCalendar\Tests;
+namespace Puikepixels\LivewireCalendar\Tests;
 
-use Asantibanez\LivewireCalendar\LivewireCalendarServiceProvider;
+use Puikepixels\LivewireCalendar\LivewireCalendarServiceProvider;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as BaseCase;
 
